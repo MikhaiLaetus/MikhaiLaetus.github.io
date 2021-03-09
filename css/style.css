@@ -793,6 +793,7 @@ footer {
   }
 
   .promo {
+    height: 100vh;
     margin-top: 0px;
     min-height: 400px;
     padding: 93px 0px 35px 0px;
