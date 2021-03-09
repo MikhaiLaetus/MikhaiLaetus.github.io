@@ -16,7 +16,7 @@ header {
   position: relative;
 }
 
-.burger {
+.hamburger {
   display: none;
 }
 
@@ -759,16 +759,16 @@ footer {
 }
 @media (max-width: 575px) {
   nav {
-    min-height: 30px;
+    min-height: 40px;
   }
 
   header {
-    height: 30px;
+    height: 40px;
   }
 
   .subheader {
     min-height: 60px;
-    top: 30px;
+    top: 40px;
   }
   .subheader__official {
     display: none;
